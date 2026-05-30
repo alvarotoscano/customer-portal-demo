@@ -9,4 +9,4 @@ on:
 
 jobs:
   corporate-standard:
-    uses: alvarotoscano/delivery-control-demo/.cloudbees/workflows/nodejs-standard.yaml@main
+    uses: https://github.com/alvarotoscano/delivery-control-demo//.cloudbees/workflows/nodejs-standard.yaml
