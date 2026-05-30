@@ -1,0 +1,9 @@
+{
+  "name": "customer-portal-demo",
+  "version": "1.0.0",
+  "description": "Customer Portal Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
